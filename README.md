@@ -23,5 +23,5 @@
 
 ### 🤝 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/meenakshi-h-9a169019b/)
-  - 🌐 [Portfolio/Website][https://github.com/Meen/Meen.github.io]((https://github.com/Meen/Meen.github.io))
-)
+- 🌐 [Portfolio/Website](https://Meen.github.io)
+
