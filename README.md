@@ -22,5 +22,5 @@
 - Learn Tableau for advanced data visualization.
 
 ### 🤝 Let’s Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/meenakshi-h-9a169019b/))
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/meenakshi-h-9a169019b/)
+  - 🌐 [Portfolio/Website](https://yourwebsite.com)
